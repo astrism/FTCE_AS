@@ -6,4 +6,4 @@ Play:
 http://astrism.github.com/FTCE_AS
 
 Also see the JS version:
-[astrism.github.com/FTCE_JS](http://astrism.github.com/FTCE_JS)
+[github.com/astrism/FTCE_JS](http://github.com/astrism/FTCE_JS)
